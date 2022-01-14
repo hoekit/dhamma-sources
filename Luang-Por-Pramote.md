@@ -66,9 +66,30 @@ Selected teachings from Luang Por Pramote of dhamma.com.
     - Use sati to know the state of the jit
     - Don't force jit to be still, just know that it is not still
     - Just sit relax and just know what it's up to
-- @34:09
-    - cvlc pramote-640523.mp3 --start-time 2049
-    - Details on practice
+- @34:09-41:48
+    - cvlc pramote-640523.mp3 --start-time 2049 --stop-time 2508
+    - Practice the three parts daily:
+        1. Keep the Five Precepts (sinh har)
+        2. Practice formally (e.g. meditation in various postures)
+        3. Practice sati (mindfulness) in everyday activities
+    - Divide up the day to each part of the practice
+    - Details on practicing sati in everyday activities
+        - Be aware of the six sense impressions:
+            - sight, sound, smell, taste, feel, mental impressions
+        - Know yindee / yinrai
+        - Know yindee / yinrai at the heart as well
+            - Feeling satisfied with being at peace
+            - Wanting to feel peaceful
+            - Know what the jit is up to
+        - Only one thing: jit yindee or yinrai, be mindful of how the
+          jit is feeling
+        - Need not know at each of the senses, too slow
+        - Know at just one place, the jit, whether jit yindee or yinrai
+        - This practice also leads to sinh (moral behaviour)
+        - And leads to samadhi
+    - Each part of the practice is important. Formal practice is
+      especially important. Without formal practice, one will not have
+      the strength to practice sati in everyday activities.
 
 ## TODO
 
